@@ -1,2 +1,2 @@
 print("hola")
-print("Jair Bolsonaro pra presidente de 2087")
+print("Eu quero amar TANTO a Deus que não exista espaço para o pecado")
